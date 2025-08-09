@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+.name{
+    color: darkblue;
+    font-size: 24px;
+}
+.card{
+    background-color: white;
+    padding: 20px;
+}
+.role{
+    color: darkgreen;
+    font-size: 18px;
+}
+.bio{
+    color: gray;
+    font-size: 16px;
+}
